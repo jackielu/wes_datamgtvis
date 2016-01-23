@@ -29,3 +29,18 @@ ul {
     margin: 10px;
     list-style-type: none;
 }
+
+/* unvisited link */
+a:link {
+    color: lightgray;
+}
+
+/* visited link */
+a:visited {
+    color: aqua;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
